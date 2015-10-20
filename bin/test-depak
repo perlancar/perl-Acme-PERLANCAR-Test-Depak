@@ -1,0 +1,20 @@
+#!perl
+
+# DATE
+# DIST
+# VERSION
+
+use 5.010001;
+use strict;
+use warnings;
+
+require File::HomeDir;
+require PERLANCAR::File::HomeDir;
+
+1;
+# ABSTRACT: A test script
+# PODNAME: test-depak
+
+=head1 SYNOPSIS
+
+=cut
